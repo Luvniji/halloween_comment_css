@@ -1,0 +1,2 @@
+# halloween_comment_css
+ハロウィン背景カスタムコメントCSS用画像
